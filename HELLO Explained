@@ -1,0 +1,62 @@
+### 📄 `README.md`
+
+````markdown
+# Hello Math - Simple Python Program
+
+This is a beginner-friendly Python program that interacts with the user by:
+
+1. Asking for their name and greeting them.
+2. Requesting two numbers from the user.
+3. Adding the two numbers and displaying the result.
+
+It's a great project to get started with basic Python concepts such as:
+- User input
+- Printing output
+- String formatting
+- Exception handling (with `try-except`)
+- Basic arithmetic operations
+
+## 🚀 How to Run
+
+### Requirements
+- Python 3 installed on your machine. [Download Python](https://www.python.org/downloads/)
+- A code editor like [Visual Studio Code](https://code.visualstudio.com/)
+
+### Steps
+1. Clone or download this repository.
+2. Open `hello_math.py` in VS Code or your preferred editor.
+3. Open the terminal and run the script using:
+
+```bash
+python hello_math.py
+````
+
+4. Follow the on-screen prompts to enter your name and two numbers.
+
+## 🧠 Example Output
+
+```plaintext
+What is your name? Wema
+Hello, Wema! Let's do some simple math.
+Enter the first number: 10
+Enter the second number: 5.5
+The sum of 10.0 and 5.5 is 15.5.
+```
+
+## ✅ What You Learn
+
+* How to get user input
+* How to use f-strings for cleaner output
+* How to handle errors using `try` and `except`
+* How to perform basic math operations in Python
+
+## 📁 File Structure
+
+```
+hello_math.py     # Main Python script
+README.md         # Project description and instructions
+```
+
+## 📜 License
+
+This is a free and open-source project for learning purposes. Use it, modify it, and share it as it is.
